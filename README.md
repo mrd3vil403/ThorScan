@@ -16,7 +16,7 @@ Install my-project with bash.
 ## Usage
 
 ```bash
-  python3 --help
+  python3 thorscan.py --help
   
   python3 thorscan.py -ip (domain name or IP address)
 ```
