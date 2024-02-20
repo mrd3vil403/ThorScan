@@ -39,4 +39,4 @@ echo "\n***done***\n"
 
 clear
 
-portmapper --help
+thorscan.py --help
